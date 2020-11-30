@@ -26,7 +26,7 @@ We are interested in checking which offer should be sent to a customer to influe
 
 ## Data set details <a name="files"></a>
 
-The notebook available here showcases work related to the above questions.  
+I have attached a notebook which has all the analysis in steps.  
 
 This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 
@@ -61,7 +61,7 @@ Here is the schema and explanation of each variable in the files:
 
 ## Results<a name="results"></a>
 
-
+Results and detailed analysis has been published as an [article](https://vijay2035.medium.com/starbucks-challenge-d5a7aba7cb08).
 
 ## Credits<a name="licensing"></a>
 
