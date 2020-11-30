@@ -5,9 +5,9 @@ Data Scientist Nanodegree of Udacity
 
 1. [Installation](#installation)
 2. [Project Details](#motivation)
-3. [File Descriptions](#files)
+3. [Dataset Details](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Credits](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -15,14 +15,16 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Details<a name="motivation"></a>
 
-It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udacity. We get the dataset from the program that creates the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers. We want to make a recommendation engine that recommends Starbucks which offer should be sent to a particular customer.
+It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udacity. 
 
-We are interested to answer the following two questions:
-1. Which offer should be sent to a particular customer to let the customer buy more?
-2. Which demographic groups respond best to which offer type?
+We got the dataset from the program that creates the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers. 
+
+We want to make a recommendation engine that recommends Starbucks which offer should be sent to a particular customer.
+
+We are interested in checking which offer should be sent to a customer to influence them to purchase ?
 
 
-## File Descriptions <a name="files"></a>
+## Data set details <a name="files"></a>
 
 The notebook available here showcases work related to the above questions.  
 
@@ -61,6 +63,6 @@ Here is the schema and explanation of each variable in the files:
 
 
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Credits<a name="licensing"></a>
 
 Data and scenarios - Starbucks, Udacity
